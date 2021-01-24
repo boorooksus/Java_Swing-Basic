@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\booro\Desktop\Programming\Java_Swing-Basic\Swing\.metadata\.plugins\org.eclipse.jdt.core
+4017461317.index
+2196199803.index
